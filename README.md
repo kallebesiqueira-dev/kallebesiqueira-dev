@@ -50,6 +50,19 @@
 <table>
   <tr>
     <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+  <tr>
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/>
       <sub><b>Next.js</b></sub>
     </td>
