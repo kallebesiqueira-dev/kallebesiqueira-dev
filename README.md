@@ -22,17 +22,27 @@
 </div>
 <br/>
 
-👨‍💻 About Me
-tsconst kallebe = {
-  role:     "Full Stack Developer",
-  location: "Brazil 🇧🇷",
-  focus:    ["SaaS Applications", "Clean Architecture", "Performance Optimization"],
-  learning: ["System Design", "Cloud Infrastructure"],
-  openTo:   ["New Opportunities", "Collaborations"],
-  contact:  "kallebesiqueira@gmail.com",
-};
+<table>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Switzerland 🇨🇭</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td>SaaS Applications · Clean Architecture · Performance Optimization</td>
+  </tr>
+  <tr>
+    <td>📚 <b>Learning</b></td>
+    <td>System Design · Cloud Infrastructure</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Open To</b></td>
+    <td>New Opportunities · Collaborations</td>
+  </tr>
+</table>
+<br/>
 
-Building scalable SaaS products with clean architecture and a focus on real-world impact.
+
 ## 🛠️ Skills
 
 ### ⬡ Frontend
@@ -88,12 +98,7 @@ Building scalable SaaS products with clean architecture and a focus on real-worl
     </td>
   </tr>
 </table>
-
-
-🚀 Featured Projects
-<div align="center">
-ProjectDescriptionStackLink📋 Task Manager SaaSFullstack SaaS inspired by Trello & NotionNext.js · Node.js · Prisma · PostgreSQL · Docker→ Repo🌐 Portfolio WebsiteModern portfolio with UI/UX focus and performance optimizationNext.js · TailwindCSS→ Live
-</div>
+<br/>
 
 📊 GitHub Stats
 <div align="center">
