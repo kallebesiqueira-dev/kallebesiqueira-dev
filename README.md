@@ -1,7 +1,3 @@
-## Hi there 👋
-# Kallebe Gallo
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1aff&height=200&section=header&text=Kallebe%20Gallo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
