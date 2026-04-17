@@ -22,7 +22,7 @@
 </div>
 <br/>
 
-<table>
+<table align="center">
   <tr>
     <td>📍 <b>Location</b></td>
     <td>Switzerland 🇨🇭</td>
