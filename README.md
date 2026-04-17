@@ -52,4 +52,4 @@ Portfolio Website	Modern portfolio with UI/UX focus and performance optimization
 <div align="center">
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white) ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,100:0d1117&height=120&section=footer" width="100%"/> </div> ```
+</div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,100:0d1117&height=120&section=footer" width="100%"/> </div> 
