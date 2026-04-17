@@ -33,29 +33,62 @@ tsconst kallebe = {
 };
 
 Building scalable SaaS products with clean architecture and a focus on real-world impact.
+## 🛠️ Skills
 
+### ⬡ Frontend
 
-🛠️ Tech Stack
-Frontend
-<div align="center">
-Mostra immagine
-Mostra immagine
-Mostra immagine
-Mostra immagine
-</div>
-Backend
-<div align="center">
-Mostra immagine
-Mostra immagine
-Mostra immagine
-</div>
-Database & DevOps
-<div align="center">
-Mostra immagine
-Mostra immagine
-Mostra immagine
-Mostra immagine
-</div>
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+  </tr>
+</table>
+
+### ◈ Backend & DevOps
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/><br/>
+      <sub><b>Prisma</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 🚀 Featured Projects
 <div align="center">
