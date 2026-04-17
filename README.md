@@ -60,9 +60,8 @@
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
       <sub><b>JavaScript</b></sub>
-    </td>
-  <tr>
-    <td align="center" width="110">
+        </td>
+  <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/>
       <sub><b>Next.js</b></sub>
     </td>
@@ -86,6 +85,18 @@
 <table>
   <tr>
     <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+ <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
       <sub><b>Node.js</b></sub>
     </td>
