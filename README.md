@@ -128,11 +128,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KallebeSiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kallebesiqueira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KallebeSiqueira&layout=compact&theme=tokyonight&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kallebesiqueira-dev&layout=compact&theme=tokyonight&langs_count=6)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KallebeSiqueira&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kallebesiqueira-dev&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
