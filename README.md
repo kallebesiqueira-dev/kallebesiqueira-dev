@@ -125,10 +125,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kallebesiqueira-dev&theme=tokyonight" width="100%" alt="Profile Details"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallebesiqueira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallebesiqueira-dev&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages"/>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kallebesiqueira-dev&theme=tokyonight" height="180em" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kallebesiqueira-dev&theme=tokyonight" height="180em" alt="Languages per Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kallebesiqueira-dev&theme=tokyonight" height="180em" alt="Languages by Commit"/>
 </div>
 
 <div align="center">
