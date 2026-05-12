@@ -128,7 +128,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kallebesiqueira-dev&theme=tokyonight" height="180em" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kallebesiqueira-dev&theme=tokyonight" height="180em" alt="Languages per Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kallebesiqueira-dev&theme=tokyonight" height="180em" alt="Languages by Commit"/>
 </div>
 
 <div align="center">
