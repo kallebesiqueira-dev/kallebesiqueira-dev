@@ -124,9 +124,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kallebesiqueira-dev&theme=tokyonight" width="100%" alt="Profile Details"/>
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kallebesiqueira-dev&theme=tokyonight" height="180em" alt="Stats"/>
