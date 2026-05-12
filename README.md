@@ -126,15 +126,15 @@
 
 📊 GitHub Stats
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallebesiqueira&layout=compact&theme=tokyonight&hide_border=true"
-  height="180em"
-/>
+<div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com?user=kallebesiqueira&theme=tokyonight&hide_border=true"
-  height="180em"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KallebeSiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KallebeSiqueira&layout=compact&theme=tokyonight&langs_count=6)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KallebeSiqueira&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallebesiqueira-dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
