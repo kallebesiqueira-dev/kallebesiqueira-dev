@@ -8,7 +8,6 @@
 
 ---
 
-
 <div align="center">
   <a href="https://www.linkedin.com/in/kallebesiqueira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -42,7 +41,6 @@
 </table>
 <br/>
 
-
 ## 🛠️ Skills
 
 ### ⬡ Frontend
@@ -60,18 +58,18 @@
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/>
       <sub><b>JavaScript</b></sub>
-        </td>
-  <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/>
-      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/>
+      <sub><b>TypeScript</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/><br/>
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/><br/>
-      <sub><b>TypeScript</b></sub>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br/>
+      <sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS"/><br/>
@@ -85,8 +83,20 @@
 <table>
   <tr>
     <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br/>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/><br/>
       <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br/>
@@ -96,21 +106,9 @@
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>
       <sub><b>MySQL</b></sub>
     </td>
- <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express"/><br/>
-      <sub><b>Express</b></sub>
-    </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/><br/>
       <sub><b>Prisma</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
-      <sub><b>PostgreSQL</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
@@ -124,15 +122,18 @@
 </table>
 <br/>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-(https://github-readme-stats.vercel.app/api?username=kallebesiqueira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kallebesiqueira-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallebesiqueira-dev&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages"/>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=kallebesiqueira-dev&layout=compact&theme=tokyonight&langs_count=6)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kallebesiqueira-dev&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kallebesiqueira-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -140,9 +141,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallebesiqueira-dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
+---
+
 <div align="center">
-"First, solve the problem. Then, write the code."
+  <i>"First, solve the problem. Then, write the code."</i>
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
