@@ -126,49 +126,7 @@
 
 📊 GitHub Stats
 
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Benvenuto+nel+mio+GitHub!;Kallebe+Gallo+Developer;Fullstack+Developer;AI+%7C+Next.js+%7C+Supabase+%7C+TypeScript"
-    alt="Typing SVG" 
-  />
-  <br><br>
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=kallebesiqueira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-  <img 
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallebesiqueira&layout=compact&theme=tokyonight&hide_border=true"
-  />
-  <br><br>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kallebesiqueira&theme=tokyo-night&hide_border=true"
-    width="95%"
-  />
-  <br><br>
-  <img 
-    src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,supabase,firebase,postgres,mysql,python,tailwind,git,github,vscode"
-  />
-  <br><br>
-  <a href="https://github.com/kallebesiqueira">
-    <img 
-      src="https://img.shields.io/github/followers/kallebesiqueira?label=Followers&style=for-the-badge&color=00F7FF"
-    />
-  </a>
-  <a href="https://github.com/kallebesiqueira">
-    <img 
-      src="https://img.shields.io/github/stars/kallebesiqueira?style=for-the-badge&color=7B68EE"
-    />
-  </a>
-  <br><br>
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B68EE&height=120&section=footer"
-    width="100%"
-  />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kallebesiqueira-dev&theme=tokyonight&hide_border=true"/>
-</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kallebesiqueira-dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
