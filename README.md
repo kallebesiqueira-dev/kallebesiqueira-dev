@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1aff&height=200&section=header&text=Kallebe%20Gallo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1aff&height=200&section=header&text=Kallebe%20Gallo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Software%20Engineer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+scalable+SaaS+products;Clean+Architecture+%26+Performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+Software+Engineer+%F0%9F%9A%80;Next.js+%7C+Node.js+%7C+PostgreSQL;Building+scalable+SaaS+products;Clean+Architecture+%26+Performance)](https://git.io/typing-svg)
 
 </div>
 
