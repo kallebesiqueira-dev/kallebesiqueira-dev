@@ -50,7 +50,7 @@ A complete CRM for small European sales teams: leads, pipeline, quotes, contract
 
 The site for my web studio, built deliberately with **zero framework and zero backend** — and it still does full internationalisation, SEO, a sitemap and a web manifest.
 
-- Custom i18n in vanilla JavaScript (IT / PT / EN) — language detection, switching and persistence in ~100 lines, no library
+- A hand-written i18n runtime (IT / PT / EN) — nested-key lookup, a `t()` helper, change subscribers, `localStorage` persistence and an accessible language switcher, driving 1,284 lines of translations. No library
 - Deployed from `/docs` on GitHub Pages with a custom domain
 - Contact handling without a server
 
