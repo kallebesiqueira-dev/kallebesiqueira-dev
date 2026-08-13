@@ -146,7 +146,7 @@ Everything listed here appears in a public repository above — no aspirational 
 
 <br/><br/>
 
-**Let's talk** — [LinkedIn](https://www.linkedin.com/in/kallebesiqueira) · [kallebesiqueira@gmail.com](mailto:kallebesiqueira@gmail.com)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1aff,100:0d1117&height=120&section=footer" width="100%"/>
 
