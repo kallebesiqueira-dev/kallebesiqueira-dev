@@ -134,6 +134,7 @@ Everything listed here appears in a public repository above — no aspirational 
 ## Currently
 
 - Hardening **Gallo CRM** for its public launch — QA, accessibility and performance
+- Shipping sites for local businesses — latest live: [tacinhoenana.com.br](https://www.tacinhoenana.com.br), a local-SEO landing for Brazilian content creators (Next.js 16, GSAP, Core Web Vitals in the green)
 - Learning **system design** and cloud infrastructure in more depth
 - **Open to opportunities** in Switzerland, Italy, or remote
 
