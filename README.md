@@ -20,7 +20,7 @@
 
 ## What I actually build
 
-I'm a full stack engineer in **Ticino, Switzerland**, working mostly on **multi-tenant SaaS** — the unglamorous parts included: tenant isolation, migrations, billing webhooks, i18n, CI, and the deploy pipeline.
+I'm a full stack engineer in **Italy**, working mostly on **multi-tenant SaaS** — the unglamorous parts included: tenant isolation, migrations, billing webhooks, i18n, CI, and the deploy pipeline.
 
 My main project, **Gallo CRM**, is live in production with paying-tier billing, seven languages and row-level security enforced in PostgreSQL. It isn't a tutorial clone; it's a product with users, a worker queue and a backup job.
 
