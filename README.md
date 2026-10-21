@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1aff&height=200&section=header&text=Kallebe%20Gallo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20·%20AI%20Products&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=I+ship+SaaS+products+to+production;FastAPI+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Docker;Multi-tenant+architecture+%26+row-level+security;Based+in+Marchirolo%2C+Italy+%F0%9F%87%A8%F0%9F%87%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=I+ship+SaaS+products+to+production;FastAPI+%C2%B7+Next.js+%C2%B7+PostgreSQL+%C2%B7+Docker;Multi-tenant+architecture+%26+row-level+security;Based+in+Marchirolo%2C+Italy)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/kallebesiqueira" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
